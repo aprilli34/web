@@ -1,16 +1,29 @@
 body {
   background-color: aliceblue;
+  color: black;
+  font-style: normal;
+  font-family: 'sofiapro-medium';
+  text-align: center;
+  border-radius: 10px
   }
 
 h1 {
   font-size: 40px;
-  font-style: normal;
+  font-weight: bolder;
   }
 
 h2 {
  font-size: 30px;
+ font-weight: bold;
 }
 
 p {
- font-size: 20px; 
+ font-size: 20px;
+ font-weight: normal;
+}
+
+ul {
+ font-size: 20px;
+ font-weight: normal;
+ text-align: left
 }
