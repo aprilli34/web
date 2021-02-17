@@ -8,6 +8,7 @@ body {
   background-color:  #444140;
   color: #F7EBE8;
   border: 10px solid #444140; 
+  border-top: 4px dashed #E85E5E;
   }
 
 h1 {
