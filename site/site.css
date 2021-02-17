@@ -1,7 +1,8 @@
 body {
- color: #F7EBE8;
- background-color: #444140
-}
+  background-color:  #444140;
+  color: #F7EBE8;
+
+  }
 
 .body {
   background-color:  #444140;
@@ -29,7 +30,9 @@ h2 {
   margin: 10px solid #1E1E24;
   padding: 10px solid #1E1E24;
   border: 20px solid #1E1E24; 
-
+  margin-top: -10px;
+  margin-left: -10px;
+  margin-right: -10px;
 }
 
 li {
