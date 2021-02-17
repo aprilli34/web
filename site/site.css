@@ -1,6 +1,13 @@
 body {
-  background-color: darkslateblue;
-  color: white;
-  border: 2px solid darkslateblue;
+  background-color: azure;
+  color: black;
+  border: 10px solid azure;
+  }
+
+h1 {
+  color: black
   }
   
+ul {
+  color: black
+}
