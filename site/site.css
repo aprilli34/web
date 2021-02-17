@@ -1,13 +1,38 @@
 body {
-  background-color: azure;
-  color: black;
-  border: 10px solid azure;
+ color: #F7EBE8;
+}
+
+.body {
+  background-color:  #444140;
+  color: #F7EBE8;
+  border: 10px solid #444140; 
   }
 
 h1 {
-  margin: 1px
+  margin: 1px;
+  padding: 1px;
+  color: #E85E5E;
   }
   
 a {
-  color: black
+  color: #FFA987; 
+  text-decoration: none;
 }
+
+h2 { 
+  color: #E85E5E;
+}
+
+.heading {
+  background-color: #1E1E24;
+  margin: 10px solid #1E1E24;
+  padding: 10px solid #1E1E24;
+  border: 20px solid #1E1E24; 
+
+}
+
+li {
+  color: #1E1E24;
+}
+
+/* https://coolors.co/e85e5e-ffa987-f7ebe8-444140-1e1e24 */
